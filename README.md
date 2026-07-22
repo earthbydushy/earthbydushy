@@ -1,4 +1,4 @@
-# 🌎 Earth by Dushy
+#  Earth by Dushy
 
 Hi, I'm Dushyanthi Rajakumar!
 
@@ -6,17 +6,17 @@ Welcome to my corner of GitHub, where I document my journey in environmental sci
 
 ---
 
-## 🌎 Vision
+##  Vision
 
 To better understand our planet by integrating environmental science, chemistry, geospatial technologies, and data, and to contribute practical solutions that support a more sustainable future.
 
-## 🎯 Mission
+##  Mission
 
 To continuously learn, build, and apply science, geospatial technologies, and data-driven approaches to investigate environmental challenges, communicate meaningful insights, and create work that contributes to informed environmental decision-making.
 
 ---
 
-## 🌱 About Me
+##  About Me
 
 I believe that understanding our planet requires bringing together science, technology, and data. My interests span environmental science, climate science, environmental chemistry, geospatial technologies, and statistics, with the goal of developing practical and sustainable solutions to real-world environmental challenges.
 
@@ -24,7 +24,7 @@ I'm currently pursuing a Master of Geospatial Information Science & Technology a
 
 ---
 
-## 🌱 Areas of Interest
+##  Areas of Interest
 
 - Environmental Science
 - Climate Science
@@ -37,7 +37,7 @@ I'm currently pursuing a Master of Geospatial Information Science & Technology a
 
 ---
 
-## 🔬 Scientific Toolkit
+##  Scientific Toolkit
 
 ### Geospatial Technologies
 - ArcGIS Pro
@@ -56,11 +56,11 @@ I'm currently pursuing a Master of Geospatial Information Science & Technology a
 
 ---
 
-## 📂 Portfolio
+##  Portfolio
 
 This GitHub is a growing collection of projects exploring environmental systems through geospatial technologies, data analysis, and reproducible research.
 
-### 🌍 Summer 2026 Goals
+###  Summer 2026 Goals
 
 - [x] Build GitHub profile
 - [ ] Publish Freshwater Fishing Suitability Analysis
@@ -71,7 +71,7 @@ This GitHub is a growing collection of projects exploring environmental systems 
 
 ---
 
-## 🌍 Philosophy
+##  Philosophy
 
 I believe maps are more than visualizations—they are powerful tools for understanding environmental systems, communicating scientific insights, and supporting informed environmental decisions.
 
