@@ -63,9 +63,8 @@ This GitHub is a growing collection of projects exploring environmental systems 
 ###  Summer 2026 Goals
 
 - [x] Build GitHub profile
-- [ ] Publish Freshwater Fishing Suitability Analysis
+- [x] Publish Freshwater Fishing Suitability Analysis
 - [ ] Publish Urban Heat & Cooling Potential
-- [ ] Publish Marine Litter Research
 - [ ] Build an Environmental GIS portfolio
 - [ ] Create a GitHub Pages portfolio website
 
